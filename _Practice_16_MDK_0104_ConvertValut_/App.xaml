@@ -1,0 +1,9 @@
+﻿<Application x:Class="_Practice_16_MDK_0104_ConvertValut_.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:_Practice_16_MDK_0104_ConvertValut_"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>
